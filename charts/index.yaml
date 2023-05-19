@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  keycloak:
+  - apiVersion: v2
+    appVersion: 21.1.1
+    created: "2023-05-19T05:48:43.7361932+02:00"
+    description: Keycloak is an open source identity and access management solution.
+    digest: 3d6ec781823204f0ca7241583a639dc73165f6ec30530a5582e387688f4b43f7
+    keywords:
+    - keycloak
+    - iam
+    - access management
+    - identity management
+    - saml
+    - oidc
+    maintainers:
+    - name: puzzlermike
+    name: keycloak
+    type: application
+    urls:
+    - https://puzzlermike.github.io/helm-repo/charts/keycloak-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-05-19T05:48:43.7356139+02:00"
